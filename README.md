@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haekal2
+- 👋 Hi, I’m @rifkyhaekal
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on mobile apps development
