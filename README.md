@@ -3,7 +3,6 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning kotlin and javascript
 - 💞️ I’m looking to collaborate on mobile apps development
-- 📫 How to reach me haekalhaekal001@gmail.com
 
 <!---
 haekal2/haekal2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +16,8 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/rifky-haekal-1a3567175/">LinkedIn</a>
+- haekalhaekal001@gmail.com
+- <a href="https://twitter/rifkyhaekal">Twitter</a>
