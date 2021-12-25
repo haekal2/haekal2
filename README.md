@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning kotlin and javascript
 - 💞️ I’m looking to collaborate on mobile apps development
-- 📫 How to reach me @rifkyhaekal
+- 📫 How to reach me haekalhaekal001@gmail.com
 
 <!---
 haekal2/haekal2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
