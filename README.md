@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/rifky-haekal-1a3567175/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/rifkyhaekal/">LinkedIn</a>
 - haekalhaekal001@gmail.com
 - <a href="https://twitter.com/rifkyhaekal">Twitter</a>
