@@ -1,8 +1,8 @@
 ### Hi! 👋 I'm Haekal.
 
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning kotlin and javascript
-- 💞️ I’m looking to collaborate on mobile apps development
+- 🌱 I’m currently learning android, hapi framework, react, and .NET
+- 💞️ I’m looking to collaborate on mobile, web, and back-end apps development
 
 <!---
 haekal2/haekal2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
