@@ -3,7 +3,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 📱 &nbsp;Mobile:&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+  ![Android](https://img.shields.io/badge/-Android-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
 - 🌐 &nbsp;Frontend:&nbsp;
