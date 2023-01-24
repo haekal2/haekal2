@@ -20,8 +20,8 @@
   ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0A1A2F?style=flat&logo=azure-devops)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0A1A2F?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0A1A2F?style=flat&logo=android-studio&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0A1A2F?style=flat&logo=visual-studio)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0A1A2F?style=flat&logo=android-studio)
 - 🖥 &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
