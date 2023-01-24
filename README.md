@@ -5,6 +5,7 @@
 - 📱 &nbsp;Mobile:&nbsp;
   ![Android](https://img.shields.io/badge/-Android-0A1A2F?style=flat&logo=Android)
 - 🗄 &nbsp;Backend:&nbsp;
+  ![Node.js](https://img.shields.io/badge/-.NET-0A1A2F?style=flat&logo=.NET)
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
