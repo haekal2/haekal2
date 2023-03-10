@@ -13,7 +13,7 @@
 - 🛢 &nbsp;Database:&nbsp;
   ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-0A1A2F?style=flat&logo=microsoft-sql-server)
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-  ![PostgreSql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
+  ![PostgreSql](https://img.shields.io/badge/-PostgreSql-0A1A2F?style=flat&logo=postgresql)
 - ⚙️ &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
